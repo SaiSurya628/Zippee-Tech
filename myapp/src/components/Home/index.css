@@ -1,0 +1,11 @@
+.button{
+    color: brown;
+    background-color: blueviolet;
+    padding: 10px;
+}
+.main-container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height:100vh;
+}
